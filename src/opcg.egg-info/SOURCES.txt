@@ -1,0 +1,9 @@
+setup.py
+src/OpenCCFontGenerator/__init__.py
+src/OpenCCFontGenerator/__main__.py
+src/OpenCCFontGenerator/font.py
+src/opcg.egg-info/PKG-INFO
+src/opcg.egg-info/SOURCES.txt
+src/opcg.egg-info/dependency_links.txt
+src/opcg.egg-info/not-zip-safe
+src/opcg.egg-info/top_level.txt
