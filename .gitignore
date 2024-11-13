@@ -1,3 +1,4 @@
 .DS_Store
 /src/OpenCCFontGenerator/cache
 /src/OpenCCFontGenerator/opencc_data
+/build
