@@ -1,3 +1,4 @@
+**[English Version](https://github.com/OOOHA/OpenCCFontGenerator#about-this-project)**
 # 關於本專案
 * 為[簡體字轉繁體字字體](https://github.com/OOOHA/Noto-Serif-cc)專案的一個部件
 * 為修改[此專案](https://github.com/ayaka14732/OpenCCFontGenerator)而來
@@ -16,7 +17,7 @@ GPOS 表可以幫助實現更高品質的字體排版，尤其是在東亞文字
 
 ### 安裝[Python](https://www.python.org/)
 ### 安裝[OpenCC](https://github.com/BYVoid/OpenCC?tab=readme-ov-file#installation-%E5%AE%89%E8%A3%9D)
-### 下載本專案
+### [下載本專案](https://github.com/OOOHA/OpenCCFontGenerator/releases)
 ### 進入專案目錄並執行
 ```bash
 python3 setup.py install
@@ -57,7 +58,7 @@ The GPOS table enhances the quality of font typography, especially in East Asian
 
 ### Install[Python](https://www.python.org/)
 ### Install[OpenCC](https://github.com/BYVoid/OpenCC?tab=readme-ov-file#installation-%E5%AE%89%E8%A3%9D)
-### Downbnload this Project
+### [Downbnload this Project](https://github.com/OOOHA/OpenCCFontGenerator/releases)
 ### Enter the Root Folder
 ```bash
 python3 setup.py install
