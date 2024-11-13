@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 src/OpenCCFontGenerator/__init__.py
 src/OpenCCFontGenerator/__main__.py
