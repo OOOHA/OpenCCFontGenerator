@@ -329,7 +329,6 @@ def remove_glyph(obj, glyph_name):
                         base_record['BaseCoord'].pop(glyph_name, None)
 
     # Remove glyph from other tables as needed
-    # 根据需要添加对其他表的处理，例如 'JSTF', 'GDEF', 等
 
 def get_reachable_glyphs(obj):
     '''Get all the reachable glyphs of a font object.'''

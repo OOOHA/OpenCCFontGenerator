@@ -10,7 +10,7 @@
 * 修改中文資料來源(改成直接從[OpenCC](https://github.com/BYVoid/OpenCC)專案中的字典資料取得)
 * 修改 font.py 裡的 remove_glyph 以及 remove_glyph 以應對文字檔中的 GPOS 表
 
-**GOPS表**: Glyph Positioning Table 是 OpenType 字體的一部分，用於定義字形之間的相對位置。它主要應用於字符的微調定位，例如字母間距、上下標對齊、連字以及複雜語言中的字形排列等。
+**GPOS表**: Glyph Positioning Table 是 OpenType 字體的一部分，用於定義字形之間的相對位置。它主要應用於字符的微調定位，例如字母間距、上下標對齊、連字以及複雜語言中的字形排列等。
 GPOS 表可以幫助實現更高品質的字體排版，尤其是在東亞文字（如漢字）和某些字母系統（如阿拉伯文和印度文字）中。
 
 # 使用方法

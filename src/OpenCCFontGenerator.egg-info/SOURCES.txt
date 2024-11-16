@@ -16,7 +16,6 @@ src/OpenCCFontGenerator/cache/convert_table_chars_twp.txt
 src/OpenCCFontGenerator/cache/convert_table_words.txt
 src/OpenCCFontGenerator/cache/convert_table_words_twp.txt
 src/OpenCCFontGenerator/cache/通用規範漢字表.txt
-src/OpenCCFontGenerator/opencc_data/HKVariants.txt
 src/OpenCCFontGenerator/opencc_data/STCharacters.txt
 src/OpenCCFontGenerator/opencc_data/STPhrases.txt
 src/OpenCCFontGenerator/opencc_data/TWPhrases.txt

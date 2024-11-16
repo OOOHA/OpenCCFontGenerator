@@ -181,7 +181,7 @@ build_codepoints()
 
 setup(
     name='OpenCCFontGenerator',
-    version='0.0.4',
+    version='0.0.4.1',
     description='The OpenCC Font Generator',
     long_description_content_type='text/markdown',
     keywords='chinese nlp natural-language-processing',
