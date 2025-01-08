@@ -1,4 +1,4 @@
-**[English Version](#About)**
+**[English Version](#About-this-projct)**
 # 關於本專案
 * 為[簡體字轉繁體字字體](https://github.com/OOOHA/Noto-Serif-cc)專案的一個部件
 * 為修改[此專案](https://github.com/ayaka14732/OpenCCFontGenerator)而來
